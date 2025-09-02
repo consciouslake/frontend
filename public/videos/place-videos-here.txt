@@ -1,0 +1,9 @@
+# Note to User
+
+The actual video file is a placeholder. You will need to replace this file with an actual MP4 video.
+
+Place your video files in this directory with the following names:
+- agriculture-sample.mp4
+- food-processing-sample.mp4
+
+or update the URLs in the HomePage.js component to match your video filenames.
